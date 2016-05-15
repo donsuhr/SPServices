@@ -16,7 +16,7 @@
     "Sympraxis Consulting LLC/marc.anderson@sympraxisconsulting.com"
   ],
   "dependencies": {
-    "jquery": "^1.10.0"
+    "jquery": ">=1.10.0"
   },
   "devDependencies": {
     "del": "^2.2.0",
